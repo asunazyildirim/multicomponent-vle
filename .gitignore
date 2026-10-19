@@ -1,0 +1,16 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+*.autosave
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+__MACOSX/
+Thumbs.db
+desktop.ini
